@@ -1,10 +1,10 @@
 body{
   background: #fafafa;
-  color:  #125688
+  color:  #125688;
   font-family: Montserrat;
 }
 
-#main-comtainer{
+#main-container{
   margin: 30px auto;
 }
 .iphone{
@@ -17,7 +17,7 @@ body{
 }
 
 .login-box,
-.signin-box{
+.signup-box{
   background-color: white;
   border: 1px solid #edeeee;
   border-radius: 3px;
@@ -26,7 +26,9 @@ body{
 }
 
 .signup-box .platzigram{
-  font-family: 'Oleo Script'
+  font-family: 'Oleo Script';
+  text-align: center;
+  font-size: 42px;
 }
 
 .signup-form{
